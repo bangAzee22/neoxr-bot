@@ -6,7 +6,7 @@ exports.run = {
    }) => {
       client.sendContact(m.chat, [{
          name: global.owner_name,
-         number: global.owner,
+         number: global.6282169638085,
          about: 'Owner & Creator'
       }], m)
    },
